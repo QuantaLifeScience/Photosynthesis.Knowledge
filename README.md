@@ -1,4 +1,7 @@
 # Photosynthesis.Knowledge
+
+# Types of Photosynthesis
+## C3 vs. C4 Photosynthesis
 - [Exposing Fake Honey Using Carbon-13](https://youtu.be/rKvNp0fAaZ8) - https://www.google.com/search?q=c3+vs+c4+plants - https://www.google.com/search?q=c3+vs+c4+photosynthesis
 
 - https://ripe.illinois.edu/blog/difference-between-c3-and-c4-plants
